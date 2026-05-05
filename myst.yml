@@ -1,4 +1,4 @@
-psversion: 1
+epsversion: 1
 project:
   title: EcoAlps
   # authors:
@@ -54,7 +54,7 @@ site:
     # analytics_google: G-XXX
   actions:
     - title: RSS
-      url: https://opengeos.org/myst-website-template/rss.xml
+      url: https://ecoalps.eu/myst-website-template/rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
