@@ -1,8 +1,8 @@
-version: 1
+psversion: 1
 project:
-  title: Website Title
+  title: EcoAlps
   # authors:
-  #   - name: Author Name
+  #   - name: Georg Niedrist
   copyright: '2026'
   exclude:
     - _build
