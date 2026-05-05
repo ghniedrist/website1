@@ -16,10 +16,10 @@ project:
     - CONDUCT.md
     - CONTRIBUTING.md
     - README.md
-  github: opengeos/myst-website-template
+  github: ghniedrist/website1
   thebe:
     binder:
-      repo: opengeos/myst-website-template
+      repo: ghniedrist/website1
       provider: github
       url: https://mybinder.org
       ref: main
@@ -54,7 +54,7 @@ site:
     # analytics_google: G-XXX
   actions:
     - title: RSS
-      url: https://ecoalps.eu/myst-website-template/rss.xml
+      url: https://ghniedrist.github.io/website1//rss.xml
   template: book-theme
   parts:
     primary_sidebar_footer: ''
