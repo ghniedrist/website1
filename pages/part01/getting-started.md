@@ -18,7 +18,7 @@ exports:
     output: _build/exports/typst/
 ---
 
-# Getting Started
+# Leistungen
 
 This chapter introduces the fundamental concepts.
 
