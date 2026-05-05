@@ -8,10 +8,10 @@ kernelspec:
   display_name: Python 3
   language: python
   name: python3
-title: Getting Started
+title: Leistungen
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Georg Niedrist
 exports:
   - format: typst
     template: lapreprint-typst
